@@ -1,4 +1,4 @@
-![logo](https://github.com/CATNSEC2023/viraj/blob/main/Dark%20Purple%20%26%20Coral%20Gradient%20Content%20Creator%20LinkedIn%20Banner.jpg)
+![logo](https://github.com/CATNSEC2023/CATNSEC2023/blob/main/Dark%20Purple%20%26%20Coral%20Gradient%20Content%20Creator%20LinkedIn%20Banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Vidya Kumar</h1>
 <h3 align="center">A passionate developer from India</h3>
