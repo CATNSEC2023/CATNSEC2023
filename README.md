@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Vidya Kumar</h1>
+<h1 align="center">**Hi 👋, I'm Vidya Kumar**</h1>
 <h3 align="center">A passionate developer from 🌏</h3>
 
 <p align="left"> <img
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **viraj.techdev@gmail.com**
 
-- ⚡ Fun fact **I am Coder in dream 😸**
+- ⚡ Fun fact **I am also Coder in dream 😸**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
