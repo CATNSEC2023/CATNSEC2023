@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">**Hi 👋, I'm Vidya Kumar**</h1>
+<h1 align="center">Hi 👋, I'm Vidya Kumar</h1>
 <h3 align="center">A passionate developer from 🌏</h3>
 
 <p align="left"> <img
